@@ -1,6 +1,1 @@
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:feng-poi/weixin.git
-git push -u origin main
+公众号自动推送消息
